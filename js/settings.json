@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(mkdir *)",
+      "Bash(npm install *)"
+    ]
+  },
+  "$version": 3
+}
